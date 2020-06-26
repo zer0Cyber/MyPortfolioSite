@@ -296,9 +296,9 @@ footer {
     width: 40%;
   }
 
-  .workContents .work:nth-child(odd){
+/*   .workContents .work:nth-child(odd){
     flex-direction: row-reverse;
-  }
+  } */
 
 
 }
